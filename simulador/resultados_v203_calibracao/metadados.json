@@ -1,0 +1,63 @@
+{
+  "versao": "v203",
+  "sha256_gdscript": "b973c55b53a0a574591be9953074fea8b23e6aec5a92ab84623892444342d49b",
+  "parametros": {
+    "partidas": 108,
+    "semente": 203101,
+    "amostra_jogadas": 36,
+    "processos": 4,
+    "cenarios": [
+      "atual",
+      "menos_1",
+      "seletiva",
+      "seletiva_flor_menos_1",
+      "seletiva_fada_mais_1"
+    ],
+    "saida": "/mnt/data/work203/simulador/resultados_v203_calibracao"
+  },
+  "total_partidas": 1620,
+  "segundos": 39.94,
+  "floral_seletiva": {
+    "5": 3,
+    "11": 3,
+    "15": 4,
+    "17": 4,
+    "19": 3,
+    "23": 3,
+    "13": 6,
+    "14": 6,
+    "21": 5,
+    "24": 5,
+    "25": 7,
+    "26": 7,
+    "28": 7,
+    "29": 6,
+    "30": 7
+  },
+  "fada_seletiva": {
+    "9": 5,
+    "10": 3,
+    "14": 3,
+    "25": 3,
+    "26": 5,
+    "27": 5,
+    "41": 5,
+    "42": 5,
+    "43": 5,
+    "44": 5,
+    "45": 7,
+    "46": 7,
+    "47": 8,
+    "48": 3,
+    "49": 7,
+    "61": 6,
+    "63": 3,
+    "64": 3,
+    "65": 3,
+    "66": 5,
+    "67": 7,
+    "69": 4,
+    "70": 7
+  },
+  "limites": "agentes heurísticos independentes; não teste humano nem execução Godot"
+}

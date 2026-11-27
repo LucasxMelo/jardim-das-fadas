@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://c0xevf1hlohob"
+
+[deps]
+
+source_file="res://simulador/resultados_v203_uniforme/frequencia_objetivos.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

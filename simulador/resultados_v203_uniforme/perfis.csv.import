@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bircr1or8atlr"
+
+[deps]
+
+source_file="res://simulador/resultados_v203_uniforme/perfis.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

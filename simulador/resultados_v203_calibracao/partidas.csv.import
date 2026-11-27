@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://h0qvb1g1u64d"
+
+[deps]
+
+source_file="res://simulador/resultados_v203_calibracao/partidas.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dmvq8yorve7yd"
+
+[deps]
+
+source_file="res://simulador/resultados_v203_uniforme/jogadores.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

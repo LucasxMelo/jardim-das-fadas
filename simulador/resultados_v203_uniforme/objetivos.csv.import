@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://7psqwb0fef25"
+
+[deps]
+
+source_file="res://simulador/resultados_v203_uniforme/objetivos.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

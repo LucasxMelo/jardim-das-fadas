@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dkdyu0yfqfpmx"
+
+[deps]
+
+source_file="res://simulador/proposta_por_objetivo_v205.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

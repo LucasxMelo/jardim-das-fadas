@@ -1,0 +1,26 @@
+{
+  "versao_regras": "v203",
+  "sha256_gdscript": "3de327a3c215dcc0eaa846049483971165085f7cfe8e478bc2f9904b0354664a",
+  "parametros": {
+    "partidas": 36,
+    "jogadores": [
+      2,
+      3,
+      4
+    ],
+    "bonus": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "semente": 20261126,
+    "amostra_jogadas": 24,
+    "processos": 4,
+    "saida": "simulador/resultados_v203_uniforme",
+    "perfis": "mistos"
+  },
+  "total_partidas": 432,
+  "segundos": 10.13,
+  "observacao": "Simulação independente; políticas heurísticas, não IA do Godot. Assentos rotacionados; não é teste humano."
+}

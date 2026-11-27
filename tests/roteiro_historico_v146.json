@@ -1,0 +1,289 @@
+{
+  "board": [
+    [
+      -1,
+      -1,
+      "vermelha"
+    ],
+    [
+      0,
+      -1,
+      "amarela"
+    ],
+    [
+      1,
+      -1,
+      "lilas"
+    ],
+    [
+      -1,
+      0,
+      "amarela"
+    ],
+    [
+      0,
+      0,
+      "lilas"
+    ],
+    [
+      1,
+      0,
+      "vermelha"
+    ],
+    [
+      -1,
+      1,
+      "lilas"
+    ],
+    [
+      0,
+      1,
+      "vermelha"
+    ],
+    [
+      1,
+      1,
+      "amarela"
+    ],
+    [
+      2,
+      -1,
+      "vermelha"
+    ],
+    [
+      3,
+      -1,
+      "lilas"
+    ],
+    [
+      4,
+      -1,
+      "vermelha"
+    ],
+    [
+      -2,
+      1,
+      "vermelha"
+    ],
+    [
+      -1,
+      2,
+      "amarela"
+    ],
+    [
+      0,
+      -2,
+      "vermelha"
+    ]
+  ],
+  "plan": {
+    "initial": [
+      [
+        "gamer:11:lilas:vermelha"
+      ]
+    ],
+    "steps": [
+      {
+        "owner": 0,
+        "source": "aberta",
+        "color": "lilas",
+        "src": null,
+        "dest": [
+          3,
+          -2
+        ],
+        "fly": -1,
+        "flight": "",
+        "goal": "gamer:11:lilas:vermelha",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "baralho",
+        "color": "lilas",
+        "src": null,
+        "dest": [
+          0,
+          2
+        ],
+        "fly": 1,
+        "flight": "straight",
+        "goal": "",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "baralho",
+        "color": "lilas",
+        "src": null,
+        "dest": [
+          -2,
+          2
+        ],
+        "fly": 0,
+        "flight": "diag",
+        "goal": "",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "aberta",
+        "color": "vermelha",
+        "src": [
+          0,
+          2
+        ],
+        "dest": [
+          1,
+          2
+        ],
+        "fly": -1,
+        "flight": "",
+        "goal": "",
+        "lesson": "preparar_coleta"
+      },
+      {
+        "owner": 0,
+        "source": "baralho",
+        "color": "vermelha",
+        "src": null,
+        "dest": [
+          1,
+          -2
+        ],
+        "fly": 1,
+        "flight": "straight",
+        "goal": "",
+        "lesson": "coletar"
+      },
+      {
+        "owner": 0,
+        "source": "aberta",
+        "color": "lilas",
+        "src": [
+          -2,
+          1
+        ],
+        "dest": [
+          -2,
+          0
+        ],
+        "fly": 1,
+        "flight": "diag",
+        "goal": "gamer:15:vermelha:lilas",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "baralho",
+        "color": "amarela",
+        "src": [
+          0,
+          2
+        ],
+        "dest": [
+          0,
+          3
+        ],
+        "fly": 0,
+        "flight": "straight",
+        "goal": "gamer:11:amarela:vermelha",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "aberta",
+        "color": "amarela",
+        "src": [
+          1,
+          1
+        ],
+        "dest": [
+          2,
+          1
+        ],
+        "fly": 0,
+        "flight": "diag",
+        "goal": "fada:44:1",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "premio",
+        "color": "lilas",
+        "src": null,
+        "dest": [
+          -3,
+          1
+        ],
+        "fly": 0,
+        "flight": "straight",
+        "goal": "fada:10:1",
+        "lesson": ""
+      },
+      {
+        "owner": 0,
+        "source": "premio",
+        "color": "vermelha",
+        "src": null,
+        "dest": [
+          3,
+          1
+        ],
+        "fly": 0,
+        "flight": "straight",
+        "goal": "",
+        "lesson": "polinizar"
+      },
+      {
+        "owner": 0,
+        "source": "aberta",
+        "color": "vermelha",
+        "src": [
+          1,
+          -2
+        ],
+        "dest": [
+          2,
+          -2
+        ],
+        "fly": 1,
+        "flight": "diag",
+        "goal": "gamer:14:vermelha:lilas",
+        "lesson": ""
+      }
+    ],
+    "hands": {
+      "0": [
+        "gamer:15:vermelha:lilas"
+      ],
+      "5": [
+        "gamer:11:amarela:vermelha"
+      ],
+      "6": [
+        "gamer:14:vermelha:lilas",
+        "gamer:13:vermelha:amarela",
+        "fada:44:1",
+        "fada:10:1"
+      ],
+      "7": [
+        "gamer:14:vermelha:lilas",
+        "gamer:13:vermelha:amarela",
+        "fada:42:1",
+        "fada:10:1"
+      ],
+      "8": [
+        "gamer:14:vermelha:lilas",
+        "gamer:13:vermelha:amarela",
+        "fada:42:1",
+        "fada:43:1"
+      ],
+      "10": [
+        "gamer:13:vermelha:lilas",
+        "gamer:13:vermelha:amarela",
+        "fada:42:1",
+        "fada:43:1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "versao": "v205",
+  "sha256_gdscript": "3dc65605355df91751759534405c6cb4804120eb921f1abaa79a75f82a60661f",
+  "parametros": {
+    "partidas": 108,
+    "semente": 205901,
+    "amostra_jogadas": 48,
+    "processos": 4,
+    "cenarios": [
+      "controle",
+      "seletiva",
+      "moderada",
+      "focal"
+    ],
+    "saida": "simulador/resultados_v205_validacao"
+  },
+  "total_partidas": 1296,
+  "segundos": 39.91,
+  "florais_seletiva": {
+    "5": 4,
+    "11": 4,
+    "15": 5,
+    "17": 5,
+    "19": 4,
+    "23": 4,
+    "13": 7,
+    "14": 6,
+    "21": 6,
+    "24": 6,
+    "25": 8,
+    "26": 8,
+    "28": 8,
+    "29": 7,
+    "30": 8
+  },
+  "fadas_seletiva": {
+    "10": 3,
+    "14": 3,
+    "25": 3,
+    "26": 5,
+    "27": 4,
+    "41": 5,
+    "42": 5,
+    "43": 5,
+    "44": 4,
+    "45": 6,
+    "46": 5,
+    "47": 7,
+    "48": 3,
+    "49": 6
+  },
+  "fadas_focal": {
+    "14": 3,
+    "25": 4,
+    "26": 5,
+    "27": 4,
+    "45": 7,
+    "48": 4
+  },
+  "atribuicao": "FIFO por flor; estrelas marginais no momento da coleta; origem marcada por objetivo",
+  "limites": "agentes heurísticos, amostragem de candidatos, sem execução Godot"
+}

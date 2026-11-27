@@ -1,0 +1,39 @@
+﻿categoria;tipo;nome_ou_desenho;atual_2;atual_3;atual_4;proposta_seletiva_testada;entregues_controle;concluidos_controle;taxa_pct;recomendacao
+medio;5;5/6 A · 8/9 B;3;3;3;2;1876;972;51.8;Testar valor proposto
+medio;11;2/5 A · 4/6 B;3;3;3;2;3139;1588;50.6;Testar valor proposto
+medio;15;4/7 A · 6/9 B;4;4;4;3;2008;838;41.7;Testar valor proposto
+medio;17;2/5 A · 7/9 B;4;4;4;3;3166;1647;52.0;Testar valor proposto
+medio;19;2/8 A · 7/9 B;4;4;4;2;3194;2117;66.3;Testar valor proposto
+medio;23;4/6 A · 7/9 B;4;4;4;2;1775;1236;69.6;Testar valor proposto
+dificil;13;1/3 A · 7/9 B;6;6;6;5;439;206;46.9;Testar valor proposto
+dificil;14;1/3/8 A · 5 B;5;5;5;5;707;223;31.5;Testar valor proposto
+dificil;21;1/9 A · 6/8 B;5;5;5;4;708;235;33.2;Testar valor proposto
+dificil;24;3/7 A · 5/9 B;5;5;5;4;835;257;30.8;Testar valor proposto
+dificil;25;1/3/5 A · 4/6 B;6;6;6;6;846;210;24.8;Testar valor proposto
+dificil;26;1/3 A · 4/5/6 B;6;6;6;6;925;217;23.5;Testar valor proposto
+dificil;28;4/5 A · 2/6/8 B;7;7;7;6;933;288;30.9;Testar valor proposto
+dificil;29;3/7/9 A · 6/8 B;7;7;7;5;829;271;32.7;Testar valor proposto
+dificil;30;3/5/7 A · 6/8 B;7;7;7;6;799;272;34.0;Testar valor proposto
+fada;9;FLOR PRECIOSA;3;3;3;5;375;17;4.5;"Investigar viabilidade; 5 experimental"
+fada;10;TRÊS FLORES;3;3;3;3;352;194;55.1;Testar valor proposto
+fada;14;TRÊS CORES;4;4;4;3;337;189;56.1;Testar valor proposto
+fada;25;QUATRO FLORES;5;5;5;3;333;249;74.8;Testar valor proposto
+fada;26;CINCO FLORES;7;7;7;5;370;297;80.3;Testar valor proposto
+fada;27;COLETA EM QUATRO FLORES;6;6;6;5;347;235;67.7;Testar valor proposto
+fada;41;DUAS VERMELHAS;5;5;5;5;404;124;30.7;Testar valor proposto
+fada;42;DUAS AMARELAS;5;5;5;5;358;97;27.1;Testar valor proposto
+fada;43;DUAS LILASES;5;5;5;5;366;105;28.7;Testar valor proposto
+fada;44;RETA DISTANTE;5;5;5;5;349;143;41.0;Testar valor proposto
+fada;45;RETA LONGA;8;8;8;7;374;174;46.5;Testar valor proposto
+fada;46;DIAGONAL DISTANTE;6;6;6;7;353;123;34.8;Testar valor proposto
+fada;47;DIAGONAL LONGA;8;8;8;8;344;83;24.1;Testar valor proposto
+fada;48;CORES DISTANTES;5;5;5;3;351;260;74.1;Testar valor proposto
+fada;49;EXTREMIDADES;7;7;7;7;359;167;46.5;Testar valor proposto
+fada;61;CERCO;7;6;5;6;353;130;36.8;Testar valor proposto
+fada;63;POUSO CONTESTADO;4;3;2;3;369;0;0.0;"Suspender ou reformular; 3 apenas na tabela simulada"
+fada;64;APROXIMAÇÃO ESTRATÉGICA;4;3;2;3;343;156;45.5;Testar valor proposto
+fada;65;DESLOCAMENTO FORÇADO;4;3;2;3;374;100;26.7;Testar valor proposto
+fada;66;MANOBRA COMBINADA;6;5;4;5;352;159;45.2;Testar valor proposto
+fada;67;QUEBRA DE ALINHAMENTO;6;7;8;7;373;164;44.0;Testar valor proposto
+fada;69;CONFRONTO DIAGONAL;5;4;3;4;350;155;44.3;Testar valor proposto
+fada;70;INTERPOSIÇÃO;7;6;5;7;369;92;24.9;Testar valor proposto

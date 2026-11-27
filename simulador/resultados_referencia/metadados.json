@@ -1,0 +1,71 @@
+{
+  "total_partidas": 1080,
+  "lotes": [
+    {
+      "versao_regras": "v200",
+      "sha256_gdscript": "9334971f2db84a446f32306a3547ba3c0a893b57e597b60260611e8207698d03",
+      "parametros": {
+        "partidas": 180,
+        "jogadores": [
+          2
+        ],
+        "bonus": [
+          0,
+          1
+        ],
+        "semente": 20261126,
+        "amostra_jogadas": 36,
+        "processos": 4,
+        "saida": "simulador/lote2",
+        "perfis": "mistos"
+      },
+      "total_partidas": 360,
+      "segundos": 6.12,
+      "observacao": "Simulação independente; políticas heurísticas, não IA do Godot. Assentos rotacionados; não é teste humano."
+    },
+    {
+      "versao_regras": "v200",
+      "sha256_gdscript": "9334971f2db84a446f32306a3547ba3c0a893b57e597b60260611e8207698d03",
+      "parametros": {
+        "partidas": 180,
+        "jogadores": [
+          3
+        ],
+        "bonus": [
+          0,
+          1
+        ],
+        "semente": 20261126,
+        "amostra_jogadas": 36,
+        "processos": 4,
+        "saida": "simulador/lote3",
+        "perfis": "mistos"
+      },
+      "total_partidas": 360,
+      "segundos": 8.19,
+      "observacao": "Simulação independente; políticas heurísticas, não IA do Godot. Assentos rotacionados; não é teste humano."
+    },
+    {
+      "versao_regras": "v200",
+      "sha256_gdscript": "9334971f2db84a446f32306a3547ba3c0a893b57e597b60260611e8207698d03",
+      "parametros": {
+        "partidas": 180,
+        "jogadores": [
+          4
+        ],
+        "bonus": [
+          0,
+          1
+        ],
+        "semente": 20261126,
+        "amostra_jogadas": 36,
+        "processos": 4,
+        "saida": "simulador/lote4",
+        "perfis": "mistos"
+      },
+      "total_partidas": 360,
+      "segundos": 10.84,
+      "observacao": "Simulação independente; políticas heurísticas, não IA do Godot. Assentos rotacionados; não é teste humano."
+    }
+  ]
+}

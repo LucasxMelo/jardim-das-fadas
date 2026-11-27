@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dwrvuknlcs84s"
+
+[deps]
+
+source_file="res://simulador/resultados_referencia/jogadores.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

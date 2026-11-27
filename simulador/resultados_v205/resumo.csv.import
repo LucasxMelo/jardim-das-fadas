@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://5iweu7mav8n8"
+
+[deps]
+
+source_file="res://simulador/resultados_v205/resumo.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

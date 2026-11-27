@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://fu132x30ykyo"]
+
+[ext_resource type="Script" uid="uid://bth0vm3iqmlwk" path="res://scripts/jogo/261.gd" id="1_1k33c"]
+
+[node name="JardimDasFadas" type="Node2D" unique_id=2040899301]
+script = ExtResource("1_1k33c")

@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://cda5nyjllq3d8"
+
+[deps]
+
+source_file="res://simulador/resultados_referencia/reapurar_mesmas_jogadas.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
