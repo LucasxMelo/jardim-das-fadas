@@ -111,6 +111,10 @@ The web export uses the Godot Compatibility renderer.
 - Language: GDScript
 - Platforms: Desktop and Mobile Web
 - Game language: Brazilian Portuguese
+
+## Documentation
+
+[Portuguese documentation (PT-BR)](LEIA-ME.md)
 - Status: Released and under iterative development
 
 ---
