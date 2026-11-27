@@ -1,6 +1,10 @@
 # Jardim das Fadas | Fairy Garden
 
 <p align="center">
+  <img src="cover.png" width="500" alt="Jardim das Fadas">
+</p>
+
+<p align="center">
   <a href="https://lucasxmelo.itch.io/jardim-das-fadas">
     <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
   </a>
